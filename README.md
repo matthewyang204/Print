@@ -1,8 +1,7 @@
 # Printer
 This is a Mac app that allows you to print one or multiple files without opening them.
 
-Requirements:
-macOS 10.4 or later
+Requirements: macOS 10.4 or later
 
 To install:
 1. Download the .zip file.
