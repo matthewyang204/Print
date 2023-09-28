@@ -4,9 +4,8 @@ This is a Mac app that allows you to print one or multiple files without opening
 Requirements: macOS 10.4 or later
 
 To install:
-1. Download the .zip file.
-2. Extract the file with whatever decompressing software you have (i,e Archive Utility, iZip).
-3. Move the app to the Applications folder (if you are using iZip, just extract to the Applications folder directly).
+1. Download the app.
+3. Move the app to the Applications folder.
 4. Enable Full Disk access in System Settings by adding it to the list and then making sure that the toggle is on (this is important so that it can access files to print).
 
 To use:
