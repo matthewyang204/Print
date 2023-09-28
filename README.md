@@ -3,6 +3,10 @@ This is a Mac app that allows you to print one or multiple files without opening
 
 Requirements: macOS 10.13 (High Sierra) or later
 
+Latest Version: 1.0
+
+Download it here: https://github.com/matthewyang204/Printer/releases/download/1.0/Install.Printer.dmg
+
 To install:
 1. Download the disk image.
 3. Mount the image and drag the app to the folder that the arrow points to (an alias of your on-disk Applications folder). It might prompt you to enter your admin password, enter it if your Mac asks. The app will now be in your Applications folder.
