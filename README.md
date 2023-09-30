@@ -1,7 +1,7 @@
 # Printer
-This is a Mac app that allows you to print one or multiple files without opening them.
+This is a completely free Mac app that allows you to print one or multiple files without opening them. It is made with Automator, although it says it was made by Shortcuts due to Automator being based on Shortcuts since macOS 14 (Sonoma).
 
-Requirements: macOS 10.13 (High Sierra) or later
+Requirements: macOS 12 (Monterey) or later
 
 Latest Version: 1.0
 
