@@ -3,9 +3,9 @@ This is a completely free Mac app that allows you to print one or multiple files
 
 Requirements: macOS 12 (Monterey) or later
 
-Latest Version: 1.0
+Latest Version: 1.1
 
-Download it here: https://github.com/matthewyang204/Printer/releases/download/1.0/Install.Printer.dmg
+Download it here: https://github.com/matthewyang204/Printer/releases/download/1.1/Install.Printer.1.1.dmg
 
 To install:
 1. Download the disk image.
